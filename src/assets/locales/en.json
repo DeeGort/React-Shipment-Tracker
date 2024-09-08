@@ -1,0 +1,15 @@
+{
+  "heading": "Track your parcel from the comfort of your home.",
+  "searchPlaceholder": "Enter your tracking number here",
+  "trackerTitle": "Tracker",
+  "trackNumber": "Tracking number:",
+  "status": {
+    "sent": "Ordered",
+    "packing": "Packing",
+    "handedOver": "Handed over to courier",
+    "underDelivery": "Under delivery",
+    "delivered": "Successfully delivered"
+  },
+  "shopAll": "Show all",
+  "footerTitle": "Contact information"
+}

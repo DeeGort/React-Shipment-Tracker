@@ -1,0 +1,19 @@
+{
+  "ClientReference": "3|E-TEST-2024-12777",
+  "DeliveryCountryCode": "HU",
+  "DeliveryZipCode": "7632",
+  "GetParcelStatusErrors": [],
+  "POD": null,
+  "ParcelNumber": 1236,
+  "ParcelStatusList": [
+    {
+      "DepotCity": "",
+      "DepotNumber": "0",
+      "StatusCode": "52",
+      "StatusDate": "\/Date(1723728795000+0200)\/",
+      "StatusDescription": "Utánvét adat rögzítve",
+      "StatusInfo": "MyGLS-274200599"
+    }
+  ],
+  "Weight": 0.3
+}

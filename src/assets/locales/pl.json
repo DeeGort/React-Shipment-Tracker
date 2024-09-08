@@ -1,0 +1,15 @@
+{
+  "heading": "Śledź swoją paczkę z wygody swojego domu.",
+  "searchPlaceholder": "Wpisz tutaj swój numer śledzenia",
+  "trackerTitle": "Śledzenie",
+  "trackNumber": "Numer śledzenia:",
+  "status": {
+    "sent": "Zamówione",
+    "packing": "Pakowanie",
+    "handedOver": "Przekazane kurierowi",
+    "underDelivery": "W dostawie",
+    "delivered": "Pomyślnie dostarczone"
+  },
+  "shopAll": "Pokaż wszystko",
+  "footerTitle": "Informacje kontaktowe"
+}

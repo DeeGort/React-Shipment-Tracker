@@ -1,0 +1,15 @@
+{
+  "heading": "Sledujte svoj balík z pohodlia vášho domova.",
+  "searchPlaceholder": "Sem zadajte svoje číslo sledovania",
+  "trackerTitle": "Sledovač",
+  "trackNumber": "Číslo sledovania:",
+  "status": {
+    "sent": "Objednané",
+    "packing": "Balíček",
+    "handedOver": "Odovzdané kuriérovi",
+    "underDelivery": "Pod dodávkou",
+    "delivered": "Úspešne doručené"
+  },
+  "shopAll": "Zobraziť všetko",
+  "footerTitle": "Kontaktné informácie"
+}

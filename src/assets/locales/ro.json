@@ -1,0 +1,15 @@
+{
+  "heading": "Urmărește-ți coletul din confortul casei tale.",
+  "searchPlaceholder": "Introdu numărul de urmărire aici",
+  "trackerTitle": "Urmăritor",
+  "trackNumber": "Număr de urmărire:",
+  "status": {
+    "sent": "Comandat",
+    "packing": "Împachetare",
+    "handedOver": "Predat curierului",
+    "underDelivery": "În livrare",
+    "delivered": "Livrare reușită"
+  },
+  "shopAll": "Afișează tot",
+  "footerTitle": "Informații de contact"
+}

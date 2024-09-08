@@ -1,0 +1,15 @@
+{
+  "heading": "Kövesd nyomon csomagod az otthonodból.",
+  "searchPlaceholder": "Írd ide az azonosítószámod",
+  "trackerTitle": "Nyomkövetés",
+  "trackNumber": "Nyomkövetési szám:",
+  "status": {
+    "sent": "Megrendelve",
+    "packing": "Csomagolás alatt",
+    "handedOver": "Átadva a futárszolgálatnak",
+    "underDelivery": "Kiszállítás alatt",
+    "delivered": "Sikeresen kézbesítve"
+  },
+  "shopAll": "Összes megtekintése",
+  "footerTitle": "Szállítási információk"
+}

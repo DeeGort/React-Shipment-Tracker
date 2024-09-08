@@ -1,0 +1,1 @@
+export type Status = '' | 'sent' | 'packing' | 'handedOver' | 'underDelivery' | 'delivered';

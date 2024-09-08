@@ -1,0 +1,59 @@
+{
+  "ClientReference": "2|E-TEST-2024-12654",
+  "DeliveryCountryCode": "HU",
+  "DeliveryZipCode": "7632",
+  "GetParcelStatusErrors": [],
+  "POD": null,
+  "ParcelNumber": 1235,
+  "ParcelStatusList": [
+    {
+      "DepotCity": "PÉCS",
+      "DepotNumber": "76",
+      "StatusCode": "03",
+      "StatusDate": "\/Date(1723777546000+0200)\/",
+      "StatusDescription": "Csomag a kiszállító depóban",
+      "StatusInfo": ""
+    },
+    {
+      "DepotCity": "",
+      "DepotNumber": "0",
+      "StatusCode": "27",
+      "StatusDate": "\/Date(1723751008000+0200)\/",
+      "StatusDescription": "Small Parcel",
+      "StatusInfo": "ASCS01"
+    },
+    {
+      "DepotCity": "",
+      "DepotNumber": "0",
+      "StatusCode": "01",
+      "StatusDate": "\/Date(1723751008000+0200)\/",
+      "StatusDescription": "GLS központban regisztrálva",
+      "StatusInfo": "ASCS01"
+    },
+    {
+      "DepotCity": "",
+      "DepotNumber": "0",
+      "StatusCode": "01",
+      "StatusDate": "\/Date(1723750364000+0200)\/",
+      "StatusDescription": "GLS központban regisztrálva",
+      "StatusInfo": "64"
+    },
+    {
+      "DepotCity": "",
+      "DepotNumber": "0",
+      "StatusCode": "51",
+      "StatusDate": "\/Date(1723728795000+0200)\/",
+      "StatusDescription": "Csomag rögzítve",
+      "StatusInfo": "MyGLS-274200599"
+    },
+    {
+      "DepotCity": "",
+      "DepotNumber": "0",
+      "StatusCode": "52",
+      "StatusDate": "\/Date(1723728795000+0200)\/",
+      "StatusDescription": "Utánvét adat rögzítve",
+      "StatusInfo": "MyGLS-274200599"
+    }
+  ],
+  "Weight": 0.3
+}
